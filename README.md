@@ -19,6 +19,7 @@ Boas práticas de organização e arquitetura de projeto
 DevStage - Uma plataforma de inscrições com links únicos de indicação e um ranking em tempo real dos participantes que mais geraram novos inscritos.
 
 📚 Tecnologias utilizadas
+
 ReactJS
 
 NextJS
