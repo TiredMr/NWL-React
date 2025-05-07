@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🚀 Projeto desenvolvido no NLW da Rocketseat - Trilha React
+Este repositório contém o projeto desenvolvido durante a Next Level Week (NLW) da Rocketseat, na trilha de React.
+O objetivo do projeto é colocar em prática os conceitos modernos de desenvolvimento com ReactJS, como:
 
-## Getting Started
+Componentes e Props
 
-First, run the development server:
+Estados e efeitos colaterais (Hooks)
 
+Context API
+
+Estilização com TailwindCSS
+
+Integração com APIs
+
+Boas práticas de organização e arquitetura de projeto
+
+💻 Projeto
+
+DevStage - Uma plataforma de inscrições com links únicos de indicação e um ranking em tempo real dos participantes que mais geraram novos inscritos.
+
+📚 Tecnologias utilizadas
+ReactJS
+
+NextJS
+
+TypeScript
+
+TailwindCSS
+
+Biome
+
+🔧 Como rodar o projeto
 ```bash
+# Clone o repositório
+git clone https://github.com/TiredMr/NWL-React.git
+
+# Acesse a pasta do projeto
+cd NWL-React
+
+# Instale as dependências
+npm install
+
+# Rode a aplicação
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
